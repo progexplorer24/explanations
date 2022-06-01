@@ -18,7 +18,7 @@ Jedynym rozwiązaniem na ominięcie tego ograniczenia jest dodanie odpowiedniej 
 
 ![Przykład z Kimball'a](./example-1.png)
 
-EsLint jest domyślnie dodawany jako peer-dependency do `create-react-app`. W swoich projektach macie już to zatem dodane te ustawienia. Nic nie trzeba robić.
+EsLint jest domyślnie dodawany jako peer-dependency do `create-react-app`. W swoich projektach macie to już zatem dodane. Nic nie trzeba robić.
 
 ### Automatyczne formatowanie kodu za pomocą prettier'a.
 
