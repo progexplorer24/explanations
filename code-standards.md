@@ -92,7 +92,7 @@ Ex.2 - `refactor(front): add default parameters to function declaration`
 
 
 ### Core Web Vitals
-Nowe standardy Google w obszarze User Experience. Moim zdaniem te standardy to game-changer w kwestii frontendu. Od tego roku Google każe strony, które nie zapewniają swoim użytkownikom odpowiedniego standardu. Wyniki z Lighthouse'a będą mają bezpośredni wpływ na ranking strony w wynikach wyszukiwania:
+Nowe standardy Google w obszarze User Experience. Moim zdaniem te standardy to game-changer w kwestii frontendu. Od tego roku Google każe strony, które nie zapewniają swoim użytkownikom odpowiedniego UX. Wyniki z Lighthouse'a mają bezpośredni wpływ na ranking strony w wynikach wyszukiwania:
 
 Więcej informacji możesz znaleźć tutaj:
 
@@ -103,7 +103,7 @@ Więcej informacji możesz znaleźć tutaj:
 Kluczowe metryki mierzące poziom zadowolenia użytkownika:
 ![](./ux.jpeg)
 
-Nie ma co być przesadnym purystą. Osiągnięcie 100% często jest bardzo ciężkie. Jednak myślę, że standard wynoszący min. 90% z każdego zestawu testów przy nowych projektach jest jak najbardziej osiągalny bez utraty produktywności.
+Nie trzeba też być przesadnym purystą. Osiągnięcie 100% często jest bardzo ciężkie. Jednak myślę, że standard wynoszący min. 90% z każdego zestawu testów przy nowych projektach jest jak najbardziej osiągalny bez utraty produktywności.
 
 
 ### Snyk
